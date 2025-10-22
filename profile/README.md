@@ -4,4 +4,8 @@ This is the GitHub organization for the [Malariology Unit](https://www.itg.be/en
 
 ## Repository highlights
 
-- ...
+This section contains a number of projects created by our members which are stored on their personal GitHub pages:
+
+- [Fighting Malaria Across Borders - Bioinformatics Course](https://github.com/pmoris/FiMAB-bioinformatics)
+- [Pk-Pv_Expression_Viewer](https://github.com/kdemeulenaere/Pk-Pv_Expression_Viewer)
+- [Plasmodium-falciparum-detection-by-IFA](https://github.com/vkuhne/Plasmodium-falciparum-detection-by-IFA-/tree/main)
